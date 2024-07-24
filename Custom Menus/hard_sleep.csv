@@ -1,0 +1,7 @@
+reset counter,user.hard_sleep_reset_counter
+reset counter,user.hard_sleep_reset_counter
+reset counter,user.hard_sleep_reset_counter
+reset counter,user.hard_sleep_reset_counter
+reset counter,user.hard_sleep_reset_counter
+reset counter,user.hard_sleep_reset_counter
+wakeup immediately,user.hard_sleep_wakeup_immediately

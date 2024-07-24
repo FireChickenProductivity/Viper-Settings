@@ -1,0 +1,8 @@
+Pick Direction and Move,user.fire_chicken_hissing_control_pick_direction_and_move
+Left Click,user.fire_chicken_hissing_control_left_click
+press right,stay,key right
+implies,insert \Rightarrow 
+equals,insert =
+save math,user.equatio_insert_saved_word_math
+Double Click,user.fire_chicken_hissing_control_double_left_click
+Keyboard,user.fire_chicken_hissing_control_activate_keyboard_menu
