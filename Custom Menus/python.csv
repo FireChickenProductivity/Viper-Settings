@@ -1,8 +1,8 @@
 down,stay,key down
 tab,key tab
+slap,edit.line_insert_down
 assign,user.code_operator_assignment
 Repeat,stay,core.repeat_command
-enter,key enter
 Keyboard,user.fire_chicken_hissing_control_activate_keyboard_menu
 calibration,tracking.calibrate()
 prediction1,stay,user.fire_chicken_perform_first_predicted_action_based_on_recent_actions

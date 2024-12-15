@@ -1,0 +1,5 @@
+down,stay,key down
+tab,key tab
+assign,user.code_operator_assignment
+Repeat,stay,core.repeat_command
+enter,key enter
